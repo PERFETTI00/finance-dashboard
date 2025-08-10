@@ -44,6 +44,7 @@
 ```bash
 git clone https://github.com/TU_USUARIO/finance-dashboard.git
 cd finance-dashboard
+```
 
 ### 2) Crear entorno (Conda) - Recomendado
 conda env create -f environment.yml
