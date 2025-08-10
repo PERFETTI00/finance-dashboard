@@ -81,6 +81,7 @@ streamlit run app.py
 ---
 
 ## 📸 Capturas
+![Modo Oscuro](https://github.com/PERFETTI00/finance-dashboard/blob/main/Captura%20de%20pantalla%202025-08-11%20a%20las%200.28.27.png)
 
 ---
 
