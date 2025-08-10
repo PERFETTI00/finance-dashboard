@@ -47,10 +47,14 @@ cd finance-dashboard
 ```
 
 ### 2) Crear entorno (Conda) - Recomendado
-```conda env create -f environment.yml```
+```
+conda env create -f environment.yml
+```
 
 ### 3) O instalar con Pip
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ### 4) Eejecutar
 ```
