@@ -54,6 +54,8 @@ pip install -r requirements.txt
 ### 4) Eejecutar
 streamlit run app.py
 
+---
+
 ## 📂 Estructura del proyecto
 .
 ├── app.py
@@ -66,12 +68,18 @@ streamlit run app.py
 ├── README.md
 └── LICENSE
 
+---
+
 ## 📸 Capturas
+
+---
 
 ## ⚠️ Notas
 - Los datos provienen de yfinance (pueden tener retraso respecto a tiempo real).
 - Algunos tickers pueden no devolver toda la información.
 - El resumen de mercado se actualiza al recargar la página (puedes activar auto-refresco si lo deseas).
+
+---
 
 ## 🗺️ Roadmap (Próximas mejoras)
 - Ratios y estados financieros (si están disponibles en Yahoo Finance).
@@ -79,7 +87,11 @@ streamlit run app.py
 - Despliegue en Streamlit Community Cloud.
 - Logo/branding personalizado.
 
+---
+
 ## 📄 Licencia
 Este proyecto se distribuye bajo la licencia MIT.
+
+---
 
 Hecho por **Miguel Ángel Perfetti** www.linkedin.com/in/miguelangelperfetti
