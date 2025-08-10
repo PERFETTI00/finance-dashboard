@@ -53,11 +53,14 @@ cd finance-dashboard
 ```pip install -r requirements.txt```
 
 ### 4) Eejecutar
-```streamlit run app.py```
+```
+streamlit run app.py
+```
 
 ---
 
 ## 📂 Estructura del proyecto
+```
 .
 ├── app.py
 ├── src/
@@ -68,6 +71,8 @@ cd finance-dashboard
 ├── environment.yml
 ├── README.md
 └── LICENSE
+```
+
 
 ---
 
