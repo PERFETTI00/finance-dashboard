@@ -1,6 +1,6 @@
 # 📊 Finance Dashboard
 
-![Finance Dashboard](https://via.placeholder.com/1000x400?text=Finance+Dashboard+Preview)
+![Finance Dashboard](https://github.com/PERFETTI00/finance-dashboard/blob/main/16dc0a25-9b8e-47e8-88d8-337f1718e165.png)
 
 ## 🚀 Descripción
 **Finance Dashboard** es una aplicación interactiva en **Python + Streamlit** para analizar y visualizar datos de **acciones, ETFs y criptomonedas** usando **yfinance**. Incluye indicadores técnicos, comparativas entre activos, un resumen rápido de mercado y modo claro/oscuro.
